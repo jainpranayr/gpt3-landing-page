@@ -1,6 +1,6 @@
-import "./blog.css"
+import './blog.css'
 const Blog = () => {
-	return <div></div>
+	return <div>Blog</div>
 }
 
 export default Blog

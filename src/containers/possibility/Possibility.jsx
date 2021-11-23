@@ -1,6 +1,6 @@
-import "./possibility.css"
+import './possibility.css'
 const Possibility = () => {
-	return <div></div>
+	return <div>Possibility</div>
 }
 
 export default Possibility

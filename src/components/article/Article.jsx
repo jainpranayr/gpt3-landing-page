@@ -1,6 +1,6 @@
-import "./article.css"
+import './article.css'
 const Article = () => {
-	return <div></div>
+	return <div>Article</div>
 }
 
 export default Article

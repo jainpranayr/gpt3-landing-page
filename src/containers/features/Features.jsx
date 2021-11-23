@@ -1,6 +1,6 @@
-import "./features.css"
+import './features.css'
 const Features = () => {
-	return <div></div>
+	return <div>Features</div>
 }
 
 export default Features

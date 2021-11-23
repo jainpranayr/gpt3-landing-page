@@ -5,9 +5,9 @@ import {
 	Header,
 	Possibility,
 	WhatGPT3
-} from "./containers"
-
-import { Cta, Brand, Navbar } from "./components"
+} from './containers'
+import { Cta, Brand, Navbar } from './components'
+import './App.css'
 
 function App() {
 	return (

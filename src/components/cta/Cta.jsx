@@ -1,6 +1,6 @@
-import "./cta.css"
+import './cta.css'
 const Cta = () => {
-	return <div></div>
+	return <div>Cta</div>
 }
 
 export default Cta

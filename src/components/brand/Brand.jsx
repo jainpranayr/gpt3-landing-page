@@ -1,6 +1,6 @@
-import "./brand.css"
+import './brand.css'
 const Brand = () => {
-	return <div></div>
+	return <div>Brand</div>
 }
 
 export default Brand
