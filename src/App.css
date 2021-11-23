@@ -16,6 +16,14 @@ a {
 	text-decoration: none;
 }
 
+button {
+	border: none;
+}
+
+button:focus {
+	outline: none;
+}
+
 .gradient__bg {
 	background: -moz-radial-gradient(
 		circle at 3% 25%,
